@@ -1,7 +1,7 @@
 # vera-tools
 z-wave tools for Veraplus created for personal use
 
-I couldn't find a way to see a list of all Z-Wave devices in my VeraPlus network and therefore I wrote my own program that makes use of importing the http://VERAPLUS-IP:3480/data_request?id=user_data file and extracting the things I need.
+I couldn't find a way to see a list of all Z-Wave devices in my VeraPlus network and therefore I wrote my own program that makes use of importing the http://<VERAPLUS-IP>:3480/data_request?id=user_data file and extracting the things I need.
 
 ## zneigh
 ```
